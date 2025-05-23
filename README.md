@@ -13,6 +13,8 @@ This project documents the deployment and configuration of a **Wazuh Endpoint De
 ## 🔧 Tools & Technologies
 - **Wazuh Manager** (Server)
 - **Ubuntu VM** (Agent)
+- - **File Integrity Monitoring (FIM)**
+- **MITRE ATT&CK** integration
 - **rsyslog** for log forwarding
 - **Wazuh Web UI** for visibility and threat hunting
 
